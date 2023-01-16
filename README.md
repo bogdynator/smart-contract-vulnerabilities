@@ -1,42 +1,42 @@
 # Smart Contract Vulnerabilities
 
-- [Forcibly Sending Ether to a Smart Contract](/vulnerabilities/forcibly-sending-ether.md)
-- [Insufficient Gas Griefing](/vulnerabilities/insufficient-gas-griefing.md)
-- [Reentrancy](/vulnerabilities/reentrancy.md)
-- [Integer Overflow and Underflow](/vulnerabilities/overflow-underflow.md)
-- [Timestamp Dependence](/vulnerabilities/timestamp-dependence.md)
-- [Authorization Through tx.origin](/vulnerabilities/authorization-txorigin.md)
-- [Floating Pragma](/vulnerabilities/floating-pragma.md)
-- [Function Default Visibility](/vulnerabilities/function-default-visibility.md)
-- [Outdated Compiler Version](/vulnerabilities/outdated-compiler-version.md)
-- [Unchecked Call Return Value](/vulnerabilities/unchecked-call-return-value.md)
-- [Unprotected Ether Withdrawal](/vulnerabilities/unprotected-ether-withdrawal.md)
-- [Unprotected Selfdestruct Instruction](/vulnerabilities/unprotected-selfdestruct.md)
-- [State Variable Default Visibility](/vulnerabilities/state-variable-default-visibility.md)
-- [Uninitialized Storage Pointer](/vulnerabilities/uninitialized-storage-pointer.md)
-- [Assert Violation](/vulnerabilities/assert-violation.md)
-- [Use of Deprecated Functions](/vulnerabilities/use-of-deprecated-functions.md)
-- [Delegatecall to Untrusted Callee](/vulnerabilities/delegatecall-untrusted-callee.md)
-- [Signature Malleability](/vulnerabilities/signature-malleability.md)
-- [Incorrect Constructor Name](/vulnerabilities/incorrect-constructor.md)
-- [Shadowing State Variables](/vulnerabilities/shadowing-state-variables.md)
-- [Weak Sources of Randomness from Chain Attributes](/vulnerabilities/weak-sources-randomness.md)
-- [Missing Protection against Signature Replay Attacks](/vulnerabilities/missing-protection-signature-replay.md)
-- [Requirement Validation](/vulnerabilities/requirement-violation.md)
-- [Write to Arbitrary Storage Location](/vulnerabilities/arbitrary-storage-location.md)
-- [Incorrect Inheritance Order](/vulnerabilities/incorrect-inheritance-order.md)
-- [Arbitrary Jump with Function Type Variable](/vulnerabilities/arbitrary-jump-function-type.md)
-- [Presence of Unused Variables](/vulnerabilities/unused-variables.md)
-- [Unexpected Ether Balance](/vulnerabilities/unexpected-ether-balance.md)
-- [Unencrypted Secrets](/vulnerabilities/unencrypted-secrets.md)
-- [Faulty Contract Detection](/vulnerabilities/faulty-contract-detection.md)
-- [Unclogged Blockchain Reliance](/vulnerabilities/unclogged-blockchain-reliance.md)
-- [Inadherence to Standards](/vulnerabilities/inadherence-to-standards.md)
-- [Unprotected Callback](/vulnerabilities/unprotected-callback.md)
-- [Asserting EOA from Code Size](/vulnerabilities/asserting-eoa-from-code-size.md)
-- [Transaction-Ordering Dependence](/vulnerabilities/transaction-ordering-dependence.md)
-- [DoS with Block Gas Limit](/vulnerabilities/dos-gas-limit.md)
-- [DoS with (Unexpected) revert](/vulnerabilities/dos-revert.md)
+- [Forcibly Sending Ether to a Smart Contract](/vulnerabilities/forcibly-sending-ether.md) -> TO DO
+- [Insufficient Gas Griefing](/vulnerabilities/insufficient-gas-griefing.md) -> TO DO
+- [Reentrancy](/vulnerabilities/reentrancy.md) -> reentrancy-no-eth
+- [Integer Overflow and Underflow](/vulnerabilities/overflow-underflow.md) -> FOR < 0.8 AND THE USE OF UNCEHCKED > 0.8
+- [Timestamp Dependence](/vulnerabilities/timestamp-dependence.md) -> timestamp
+- [Authorization Through tx.origin](/vulnerabilities/authorization-txorigin.md) -> tx-origin
+- [Floating Pragma](/vulnerabilities/floating-pragma.md) -> pragma
+- [Function Default Visibility](/vulnerabilities/function-default-visibility.md) -> TO DO
+- [Outdated Compiler Version](/vulnerabilities/outdated-compiler-version.md) -> solc-version
+- [Unchecked Call Return Value](/vulnerabilities/unchecked-call-return-value.md) -> unchecked-lowlevel
+- [Unprotected Ether Withdrawal](/vulnerabilities/unprotected-ether-withdrawal.md) -> arbitrary-send-eth ??
+- [Unprotected Selfdestruct Instruction](/vulnerabilities/unprotected-selfdestruct.md) -> suicidal
+- [State Variable Default Visibility](/vulnerabilities/state-variable-default-visibility.md) -> TO DO
+- [Uninitialized Storage Pointer](/vulnerabilities/uninitialized-storage-pointer.md) -> ??
+- [Assert Violation](/vulnerabilities/assert-violation.md) -> TO DO
+- [Use of Deprecated Functions](/vulnerabilities/use-of-deprecated-functions.md) -> deprecated-standards
+- [Delegatecall to Untrusted Callee](/vulnerabilities/delegatecall-untrusted-callee.md) -> controlled-delegatecall
+- [Signature Malleability](/vulnerabilities/signature-malleability.md) -> TO DO??
+- [Incorrect Constructor Name](/vulnerabilities/incorrect-constructor.md) -> TO DO
+- [Shadowing State Variables](/vulnerabilities/shadowing-state-variables.md) -> shadowing-state
+- [Weak Sources of Randomness from Chain Attributes](/vulnerabilities/weak-sources-randomness.md) -> CHECK FOR THE LAST 2 - TO DO
+- [Missing Protection against Signature Replay Attacks](/vulnerabilities/missing-protection-signature-replay.md) -> TO DO??
+- [Requirement Validation](/vulnerabilities/requirement-violation.md) -> TO DO
+- [Write to Arbitrary Storage Location](/vulnerabilities/arbitrary-storage-location.md) -> ??
+- [Incorrect Inheritance Order](/vulnerabilities/incorrect-inheritance-order.md) -> ??
+- [Arbitrary Jump with Function Type Variable](/vulnerabilities/arbitrary-jump-function-type.md) -> ??
+- [Presence of Unused Variables](/vulnerabilities/unused-variables.md) -> unused-state
+- [Unexpected Ether Balance](/vulnerabilities/unexpected-ether-balance.md) -> TO DO
+- [Unencrypted Secrets](/vulnerabilities/unencrypted-secrets.md) -> ??
+- [Faulty Contract Detection](/vulnerabilities/faulty-contract-detection.md) -> DONE
+- [Unclogged Blockchain Reliance](/vulnerabilities/unclogged-blockchain-reliance.md) -> ??
+- [Inadherence to Standards](/vulnerabilities/inadherence-to-standards.md) -> ??
+- [Unprotected Callback](/vulnerabilities/unprotected-callback.md) -> ??
+- [Asserting EOA from Code Size](/vulnerabilities/asserting-eoa-from-code-size.md) -> DONE
+- [Transaction-Ordering Dependence](/vulnerabilities/transaction-ordering-dependence.md) -> ??
+- [DoS with Block Gas Limit](/vulnerabilities/dos-gas-limit.md) -> TO DO??
+- [DoS with (Unexpected) revert](/vulnerabilities/dos-revert.md) -> ??
 
 ## Further Reading
 
