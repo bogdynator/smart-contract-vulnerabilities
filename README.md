@@ -1,6 +1,6 @@
 # Smart Contract Vulnerabilities
 
-- [Forcibly Sending Ether to a Smart Contract](/vulnerabilities/forcibly-sending-ether.md) -> TO DO
+- [Forcibly Sending Ether to a Smart Contract](/vulnerabilities/forcibly-sending-ether.md) -> DONE 
 - [Insufficient Gas Griefing](/vulnerabilities/insufficient-gas-griefing.md) -> TO DO
 - [Reentrancy](/vulnerabilities/reentrancy.md) -> reentrancy-no-eth
 - [Integer Overflow and Underflow](/vulnerabilities/overflow-underflow.md) -> FOR < 0.8 AND THE USE OF UNCEHCKED > 0.8
@@ -14,7 +14,7 @@
 - [Unprotected Selfdestruct Instruction](/vulnerabilities/unprotected-selfdestruct.md) -> suicidal
 - [State Variable Default Visibility](/vulnerabilities/state-variable-default-visibility.md) -> TO DO
 - [Uninitialized Storage Pointer](/vulnerabilities/uninitialized-storage-pointer.md) -> ??
-- [Assert Violation](/vulnerabilities/assert-violation.md) -> TO DO
+- [Assert Violation](/vulnerabilities/assert-violation.md) -> DONE
 - [Use of Deprecated Functions](/vulnerabilities/use-of-deprecated-functions.md) -> deprecated-standards
 - [Delegatecall to Untrusted Callee](/vulnerabilities/delegatecall-untrusted-callee.md) -> controlled-delegatecall
 - [Signature Malleability](/vulnerabilities/signature-malleability.md) -> TO DO??
@@ -27,7 +27,7 @@
 - [Incorrect Inheritance Order](/vulnerabilities/incorrect-inheritance-order.md) -> ??
 - [Arbitrary Jump with Function Type Variable](/vulnerabilities/arbitrary-jump-function-type.md) -> ??
 - [Presence of Unused Variables](/vulnerabilities/unused-variables.md) -> unused-state
-- [Unexpected Ether Balance](/vulnerabilities/unexpected-ether-balance.md) -> TO DO
+- [Unexpected Ether Balance](/vulnerabilities/unexpected-ether-balance.md) -> DONE
 - [Unencrypted Secrets](/vulnerabilities/unencrypted-secrets.md) -> ??
 - [Faulty Contract Detection](/vulnerabilities/faulty-contract-detection.md) -> DONE
 - [Unclogged Blockchain Reliance](/vulnerabilities/unclogged-blockchain-reliance.md) -> ??
