@@ -12,7 +12,7 @@
 - [Unchecked Call Return Value](/vulnerabilities/unchecked-call-return-value.md) -> unchecked-lowlevel
 - [Unprotected Ether Withdrawal](/vulnerabilities/unprotected-ether-withdrawal.md) -> arbitrary-send-eth ??
 - [Unprotected Selfdestruct Instruction](/vulnerabilities/unprotected-selfdestruct.md) -> suicidal
-- [State Variable Default Visibility](/vulnerabilities/state-variable-default-visibility.md) -> TO DO
+- [State Variable Default Visibility](/vulnerabilities/state-variable-default-visibility.md) -> DONE
 - [Uninitialized Storage Pointer](/vulnerabilities/uninitialized-storage-pointer.md) -> ??
 - [Assert Violation](/vulnerabilities/assert-violation.md) -> DONE
 - [Use of Deprecated Functions](/vulnerabilities/use-of-deprecated-functions.md) -> deprecated-standards
