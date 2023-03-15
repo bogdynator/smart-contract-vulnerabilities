@@ -1,7 +1,7 @@
 # Smart Contract Vulnerabilities
 
 - [Forcibly Sending Ether to a Smart Contract](/vulnerabilities/forcibly-sending-ether.md) -> DONE 
-- [Insufficient Gas Griefing](/vulnerabilities/insufficient-gas-griefing.md) -> TO DO
+- [Insufficient Gas Griefing](/vulnerabilities/insufficient-gas-griefing.md) -> DONE
 - [Reentrancy](/vulnerabilities/reentrancy.md) -> reentrancy-no-eth
 - [Integer Overflow and Underflow](/vulnerabilities/overflow-underflow.md) -> FOR < 0.8 AND THE USE OF UNCEHCKED > 0.8
 - [Timestamp Dependence](/vulnerabilities/timestamp-dependence.md) -> timestamp
