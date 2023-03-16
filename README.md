@@ -13,16 +13,16 @@
 - [Unprotected Ether Withdrawal](/vulnerabilities/unprotected-ether-withdrawal.md) -> arbitrary-send-eth ??
 - [Unprotected Selfdestruct Instruction](/vulnerabilities/unprotected-selfdestruct.md) -> suicidal
 - [State Variable Default Visibility](/vulnerabilities/state-variable-default-visibility.md) -> DONE
-- [Uninitialized Storage Pointer](/vulnerabilities/uninitialized-storage-pointer.md) -> ??
+- [Uninitialized Storage Pointer](/vulnerabilities/uninitialized-storage-pointer.md) -> NOT
 - [Assert Violation](/vulnerabilities/assert-violation.md) -> DONE
 - [Use of Deprecated Functions](/vulnerabilities/use-of-deprecated-functions.md) -> deprecated-standards
 - [Delegatecall to Untrusted Callee](/vulnerabilities/delegatecall-untrusted-callee.md) -> controlled-delegatecall
 - [Signature Malleability](/vulnerabilities/signature-malleability.md) -> TO DO??
-- [Incorrect Constructor Name](/vulnerabilities/incorrect-constructor.md) -> TO DO
+- [Incorrect Constructor Name](/vulnerabilities/incorrect-constructor.md) -> NOT
 - [Shadowing State Variables](/vulnerabilities/shadowing-state-variables.md) -> shadowing-state
 - [Weak Sources of Randomness from Chain Attributes](/vulnerabilities/weak-sources-randomness.md) -> CHECK FOR THE LAST 2 - TO DO
 - [Missing Protection against Signature Replay Attacks](/vulnerabilities/missing-protection-signature-replay.md) -> TO DO??
-- [Requirement Validation](/vulnerabilities/requirement-violation.md) -> TO DO
+- [Requirement Validation](/vulnerabilities/requirement-violation.md) -> NOT
 - [Write to Arbitrary Storage Location](/vulnerabilities/arbitrary-storage-location.md) -> ??
 - [Incorrect Inheritance Order](/vulnerabilities/incorrect-inheritance-order.md) -> ??
 - [Arbitrary Jump with Function Type Variable](/vulnerabilities/arbitrary-jump-function-type.md) -> ??
