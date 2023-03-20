@@ -17,11 +17,11 @@
 - [Assert Violation](/vulnerabilities/assert-violation.md) -> DONE
 - [Use of Deprecated Functions](/vulnerabilities/use-of-deprecated-functions.md) -> deprecated-standards
 - [Delegatecall to Untrusted Callee](/vulnerabilities/delegatecall-untrusted-callee.md) -> controlled-delegatecall
-- [Signature Malleability](/vulnerabilities/signature-malleability.md) -> TO DO??
+- [Signature Malleability](/vulnerabilities/signature-malleability.md) -> DONE
 - [Incorrect Constructor Name](/vulnerabilities/incorrect-constructor.md) -> NOT
 - [Shadowing State Variables](/vulnerabilities/shadowing-state-variables.md) -> shadowing-state
 - [Weak Sources of Randomness from Chain Attributes](/vulnerabilities/weak-sources-randomness.md) -> CHECK FOR THE LAST 2 - TO DO
-- [Missing Protection against Signature Replay Attacks](/vulnerabilities/missing-protection-signature-replay.md) -> TO DO??
+- [Missing Protection against Signature Replay Attacks](/vulnerabilities/missing-protection-signature-replay.md) -> DONE
 - [Requirement Validation](/vulnerabilities/requirement-violation.md) -> NOT
 - [Write to Arbitrary Storage Location](/vulnerabilities/arbitrary-storage-location.md) -> ??
 - [Incorrect Inheritance Order](/vulnerabilities/incorrect-inheritance-order.md) -> ??
