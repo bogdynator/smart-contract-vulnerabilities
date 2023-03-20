@@ -32,7 +32,7 @@
 - [Faulty Contract Detection](/vulnerabilities/faulty-contract-detection.md) -> DONE
 - [Unclogged Blockchain Reliance](/vulnerabilities/unclogged-blockchain-reliance.md) -> ??
 - [Inadherence to Standards](/vulnerabilities/inadherence-to-standards.md) -> can't see a detector for this
-- [Unprotected Callback](/vulnerabilities/unprotected-callback.md) -> ??
+- [Unprotected Callback](/vulnerabilities/unprotected-callback.md) -> reentrancy
 - [Asserting EOA from Code Size](/vulnerabilities/asserting-eoa-from-code-size.md) -> DONE
 - [Transaction-Ordering Dependence](/vulnerabilities/transaction-ordering-dependence.md) -> NOT
 - [DoS with Block Gas Limit](/vulnerabilities/dos-gas-limit.md) -> calls-loop
