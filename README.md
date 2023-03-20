@@ -20,7 +20,7 @@
 - [Signature Malleability](/vulnerabilities/signature-malleability.md) -> DONE
 - [Incorrect Constructor Name](/vulnerabilities/incorrect-constructor.md) -> NOT
 - [Shadowing State Variables](/vulnerabilities/shadowing-state-variables.md) -> shadowing-state
-- [Weak Sources of Randomness from Chain Attributes](/vulnerabilities/weak-sources-randomness.md) -> CHECK FOR THE LAST 2 - TO DO
+- [Weak Sources of Randomness from Chain Attributes](/vulnerabilities/weak-sources-randomness.md) -> smth this is intended
 - [Missing Protection against Signature Replay Attacks](/vulnerabilities/missing-protection-signature-replay.md) -> DONE
 - [Requirement Validation](/vulnerabilities/requirement-violation.md) -> NOT
 - [Write to Arbitrary Storage Location](/vulnerabilities/arbitrary-storage-location.md) -> ??
