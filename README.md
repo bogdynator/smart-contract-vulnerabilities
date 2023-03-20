@@ -23,7 +23,7 @@
 - [Weak Sources of Randomness from Chain Attributes](/vulnerabilities/weak-sources-randomness.md) -> smth this is intended
 - [Missing Protection against Signature Replay Attacks](/vulnerabilities/missing-protection-signature-replay.md) -> DONE
 - [Requirement Validation](/vulnerabilities/requirement-violation.md) -> NOT
-- [Write to Arbitrary Storage Location](/vulnerabilities/arbitrary-storage-location.md) -> ??
+- [Write to Arbitrary Storage Location](/vulnerabilities/arbitrary-storage-location.md) -> array length can't be modified in the new versions of solidity
 - [Incorrect Inheritance Order](/vulnerabilities/incorrect-inheritance-order.md) -> can't see a detector for this
 - [Arbitrary Jump with Function Type Variable](/vulnerabilities/arbitrary-jump-function-type.md) -> ??
 - [Presence of Unused Variables](/vulnerabilities/unused-variables.md) -> unused-state
