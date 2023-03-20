@@ -24,19 +24,19 @@
 - [Missing Protection against Signature Replay Attacks](/vulnerabilities/missing-protection-signature-replay.md) -> DONE
 - [Requirement Validation](/vulnerabilities/requirement-violation.md) -> NOT
 - [Write to Arbitrary Storage Location](/vulnerabilities/arbitrary-storage-location.md) -> ??
-- [Incorrect Inheritance Order](/vulnerabilities/incorrect-inheritance-order.md) -> ??
+- [Incorrect Inheritance Order](/vulnerabilities/incorrect-inheritance-order.md) -> can't see a detector for this
 - [Arbitrary Jump with Function Type Variable](/vulnerabilities/arbitrary-jump-function-type.md) -> ??
 - [Presence of Unused Variables](/vulnerabilities/unused-variables.md) -> unused-state
 - [Unexpected Ether Balance](/vulnerabilities/unexpected-ether-balance.md) -> DONE
 - [Unencrypted Secrets](/vulnerabilities/unencrypted-secrets.md) -> ??
 - [Faulty Contract Detection](/vulnerabilities/faulty-contract-detection.md) -> DONE
 - [Unclogged Blockchain Reliance](/vulnerabilities/unclogged-blockchain-reliance.md) -> ??
-- [Inadherence to Standards](/vulnerabilities/inadherence-to-standards.md) -> ??
+- [Inadherence to Standards](/vulnerabilities/inadherence-to-standards.md) -> can't see a detector for this
 - [Unprotected Callback](/vulnerabilities/unprotected-callback.md) -> ??
 - [Asserting EOA from Code Size](/vulnerabilities/asserting-eoa-from-code-size.md) -> DONE
-- [Transaction-Ordering Dependence](/vulnerabilities/transaction-ordering-dependence.md) -> ??
-- [DoS with Block Gas Limit](/vulnerabilities/dos-gas-limit.md) -> TO DO??
-- [DoS with (Unexpected) revert](/vulnerabilities/dos-revert.md) -> ??
+- [Transaction-Ordering Dependence](/vulnerabilities/transaction-ordering-dependence.md) -> NOT
+- [DoS with Block Gas Limit](/vulnerabilities/dos-gas-limit.md) -> calls-loop
+- [DoS with (Unexpected) revert](/vulnerabilities/dos-revert.md) -> can't see a detector for this
 
 ## Further Reading
 
